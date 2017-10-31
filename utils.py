@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 from matplotlib.cm import coolwarm
 import numpy as np
+from mpl_toolkits.mplot3d import Axes3D
 
 # plots value function for blackjack env
 def plot_value_function(V, title="Value Function"):

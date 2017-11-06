@@ -3,3 +3,4 @@ gym/
 __pycache__*
 Untitled*
 tmp/
+experiments/*
